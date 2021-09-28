@@ -3,9 +3,11 @@
 
 **So, who am I?**
 A Norwegian exhange student spending the next few months at UCSD. Here are the goals for my stay: 
-*Travel
-*Meet new people
-*Learn to surf
+* Travel
+* Meet new people
+* Learn to surf
+
+### Programming
 
 But I also want to learn some new things, and I definitly want to improve my programming skills. So far I have programmed in these languages: 
 1. C
