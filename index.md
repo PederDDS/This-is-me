@@ -31,4 +31,4 @@ If, for some strange reason, you would want to add me on linkedIn you can do it 
 
 - [ ] Was this page any fun?
 - [ ] Should I have done better?
-- [x] Will I start working on the next assignemnt further in advance?
+- [x] Will I start working on the next assignment further in advance?
